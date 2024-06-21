@@ -1,0 +1,15 @@
+.a{
+    background: url(https://t4.ftcdn.net/jpg/02/81/89/73/360_F_281897358_3rj9ZBSZHo5s0L1ug7uuIHadSxh9Cc75.jpg);
+}
+.head{
+   text-align: center;
+   font-size: 1.5rem;
+}
+input{
+    display: block;
+}
+.date{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
